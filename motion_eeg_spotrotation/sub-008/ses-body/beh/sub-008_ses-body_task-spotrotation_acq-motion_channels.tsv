@@ -1,0 +1,7 @@
+name	type	units	sampling_frequency	tracked_point	component	placement	datafile
+headRigid_eul_z	ORNT	radians	86.5146718310515	JoyStickRotation	z	n/a	...acq-motion_motion.tsv
+headRigid_eul_y	ORNT	radians	86.5146718310515	JoyStickRotation	y	n/a	...acq-motion_motion.tsv
+headRigid_eul_x	ORNT	radians	86.5146718310515	JoyStickRotation	x	n/a	...acq-motion_motion.tsv
+headRigid_cart_X	POS	meters	86.5146718310515	JoyStickRotation	X	n/a	...acq-motion_motion.tsv
+headRigid_cart_Y	POS	meters	86.5146718310515	JoyStickRotation	Y	n/a	...acq-motion_motion.tsv
+headRigid_cart_Z	POS	meters	86.5146718310515	JoyStickRotation	Z	n/a	...acq-motion_motion.tsv

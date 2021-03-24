@@ -1,0 +1,7 @@
+{
+	"MotionCoordinateSystem": {
+		"MotionCoordinateSystem": "RUF",
+		"MotionRotationRule": "left-hand",
+		"MotionRotationOrder": "ZXY"
+	}
+}
