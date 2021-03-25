@@ -1,0 +1,55 @@
+name	type	units	sampling_frequency	tracked_point	component	placement	datafile
+PhaseSpace_Rigid1_eul_z	ORNT	radians	250.00147572662	Head	z	head	...acq-PhS_motion.tsv
+PhaseSpace_Rigid1_eul_y	ORNT	radians	250.00147572662	Head	y	head	...acq-PhS_motion.tsv
+PhaseSpace_Rigid1_eul_x	ORNT	radians	250.00147572662	Head	x	head	...acq-PhS_motion.tsv
+PhaseSpace_Rigid1_cart_X	POS	meters	250.00147572662	Head	X	head	...acq-PhS_motion.tsv
+PhaseSpace_Rigid1_cart_Y	POS	meters	250.00147572662	Head	Y	head	...acq-PhS_motion.tsv
+PhaseSpace_Rigid1_cart_Z	POS	meters	250.00147572662	Head	Z	head	...acq-PhS_motion.tsv
+PhaseSpace_Rigid2_eul_z	ORNT	radians	250.00147572662	LeftThigh	z	left thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid2_eul_y	ORNT	radians	250.00147572662	LeftThigh	y	left thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid2_eul_x	ORNT	radians	250.00147572662	LeftThigh	x	left thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid2_cart_X	POS	meters	250.00147572662	LeftThigh	X	left thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid2_cart_Y	POS	meters	250.00147572662	LeftThigh	Y	left thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid2_cart_Z	POS	meters	250.00147572662	LeftThigh	Z	left thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid3_eul_z	ORNT	radians	250.00147572662	LeftLowerLeg	z	left lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid3_eul_y	ORNT	radians	250.00147572662	LeftLowerLeg	y	left lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid3_eul_x	ORNT	radians	250.00147572662	LeftLowerLeg	x	left lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid3_cart_X	POS	meters	250.00147572662	LeftLowerLeg	X	left lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid3_cart_Y	POS	meters	250.00147572662	LeftLowerLeg	Y	left lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid3_cart_Z	POS	meters	250.00147572662	LeftLowerLeg	Z	left lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid4_eul_z	ORNT	radians	250.00147572662	LeftAnkle	z	left ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid4_eul_y	ORNT	radians	250.00147572662	LeftAnkle	y	left ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid4_eul_x	ORNT	radians	250.00147572662	LeftAnkle	x	left ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid4_cart_X	POS	meters	250.00147572662	LeftAnkle	X	left ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid4_cart_Y	POS	meters	250.00147572662	LeftAnkle	Y	left ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid4_cart_Z	POS	meters	250.00147572662	LeftAnkle	Z	left ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid5_eul_z	ORNT	radians	250.00147572662	LeftForeFoot	z	left forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid5_eul_y	ORNT	radians	250.00147572662	LeftForeFoot	y	left forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid5_eul_x	ORNT	radians	250.00147572662	LeftForeFoot	x	left forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid5_cart_X	POS	meters	250.00147572662	LeftForeFoot	X	left forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid5_cart_Y	POS	meters	250.00147572662	LeftForeFoot	Y	left forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid5_cart_Z	POS	meters	250.00147572662	LeftForeFoot	Z	left forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid6_eul_z	ORNT	radians	250.00147572662	RighttThigh	z	right thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid6_eul_y	ORNT	radians	250.00147572662	RighttThigh	y	right thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid6_eul_x	ORNT	radians	250.00147572662	RighttThigh	x	right thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid6_cart_X	POS	meters	250.00147572662	RighttThigh	X	right thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid6_cart_Y	POS	meters	250.00147572662	RighttThigh	Y	right thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid6_cart_Z	POS	meters	250.00147572662	RighttThigh	Z	right thigh	...acq-PhS_motion.tsv
+PhaseSpace_Rigid7_eul_z	ORNT	radians	250.00147572662	RightLowerLeg	z	right lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid7_eul_y	ORNT	radians	250.00147572662	RightLowerLeg	y	right lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid7_eul_x	ORNT	radians	250.00147572662	RightLowerLeg	x	right lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid7_cart_X	POS	meters	250.00147572662	RightLowerLeg	X	right lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid7_cart_Y	POS	meters	250.00147572662	RightLowerLeg	Y	right lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid7_cart_Z	POS	meters	250.00147572662	RightLowerLeg	Z	right lower leg	...acq-PhS_motion.tsv
+PhaseSpace_Rigid8_eul_z	ORNT	radians	250.00147572662	RightAnkle	z	right ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid8_eul_y	ORNT	radians	250.00147572662	RightAnkle	y	right ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid8_eul_x	ORNT	radians	250.00147572662	RightAnkle	x	right ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid8_cart_X	POS	meters	250.00147572662	RightAnkle	X	right ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid8_cart_Y	POS	meters	250.00147572662	RightAnkle	Y	right ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid8_cart_Z	POS	meters	250.00147572662	RightAnkle	Z	right ankle	...acq-PhS_motion.tsv
+PhaseSpace_Rigid9_eul_z	ORNT	radians	250.00147572662	RightForeFoot	z	right forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid9_eul_y	ORNT	radians	250.00147572662	RightForeFoot	y	right forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid9_eul_x	ORNT	radians	250.00147572662	RightForeFoot	x	right forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid9_cart_X	POS	meters	250.00147572662	RightForeFoot	X	right forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid9_cart_Y	POS	meters	250.00147572662	RightForeFoot	Y	right forefoot	...acq-PhS_motion.tsv
+PhaseSpace_Rigid9_cart_Z	POS	meters	250.00147572662	RightForeFoot	Z	right forefoot	...acq-PhS_motion.tsv

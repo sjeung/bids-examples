@@ -1,0 +1,362 @@
+name	type	units	sampling_frequency
+PhaseSpace_Marker4096_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker4096_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker4096_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker4096_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker4097_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker4097_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker4097_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker4097_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker4098_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker4098_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker4098_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker4098_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker4099_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker4099_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker4099_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker4099_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker4100_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker4100_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker4100_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker4100_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker4101_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker4101_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker4101_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker4101_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker8192_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker8192_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker8192_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker8192_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker8193_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker8193_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker8193_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker8193_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker8194_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker8194_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker8194_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker8194_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker8195_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker8195_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker8195_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker8195_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker12288_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker12288_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker12288_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker12288_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker12289_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker12289_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker12289_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker12289_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker12290_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker12290_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker12290_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker12290_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker12291_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker12291_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker12291_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker12291_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker16384_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker16384_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker16384_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker16384_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker16385_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker16385_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker16385_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker16385_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker16386_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker16386_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker16386_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker16386_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker16387_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker16387_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker16387_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker16387_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker20480_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker20480_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker20480_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker20480_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker20481_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker20481_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker20481_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker20481_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker20482_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker20482_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker20482_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker20482_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker20483_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker20483_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker20483_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker20483_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker24576_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker24576_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker24576_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker24576_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker24577_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker24577_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker24577_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker24577_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker24578_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker24578_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker24578_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker24578_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker24579_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker24579_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker24579_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker24579_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker28672_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker28672_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker28672_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker28672_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker28673_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker28673_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker28673_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker28673_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker28674_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker28674_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker28674_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker28674_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker28675_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker28675_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker28675_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker28675_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker32768_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker32768_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker32768_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker32768_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker32769_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker32769_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker32769_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker32769_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker32770_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker32770_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker32770_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker32770_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker32771_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker32771_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker32771_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker32771_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker36864_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker36864_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker36864_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker36864_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker36865_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker36865_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker36865_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker36865_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker36866_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker36866_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker36866_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker36866_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Marker36867_X	PositionX	meters	250.001475672012
+PhaseSpace_Marker36867_Y	PositionY	meters	250.001475672012
+PhaseSpace_Marker36867_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Marker36867_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid1_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid1_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid1_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid1_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid1_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid1_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid1_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid1_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid2_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid2_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid2_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid2_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid2_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid2_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid2_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid2_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid3_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid3_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid3_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid3_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid3_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid3_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid3_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid3_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid4_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid4_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid4_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid4_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid4_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid4_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid4_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid4_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid5_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid5_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid5_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid5_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid5_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid5_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid5_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid5_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid6_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid6_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid6_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid6_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid6_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid6_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid6_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid6_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid7_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid7_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid7_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid7_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid7_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid7_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid7_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid7_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid8_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid8_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid8_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid8_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid8_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid8_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid8_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid8_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid9_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid9_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid9_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid9_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid9_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid9_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid9_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid9_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_TriggerTTL	Trigger	boolean	250.001475672012
+PhaseSpace_Rigid2_Rigid2_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid2_Rigid2_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid2_Rigid2_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid2_Rigid2_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid2_Rigid2_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid2_Rigid2_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid2_Rigid2_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid2_Rigid2_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid9_Rigid9_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid9_Rigid9_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid9_Rigid9_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid9_Rigid9_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid9_Rigid9_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid9_Rigid9_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid9_Rigid9_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid9_Rigid9_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid7_Rigid7_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid7_Rigid7_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid7_Rigid7_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid7_Rigid7_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid7_Rigid7_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid7_Rigid7_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid7_Rigid7_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid7_Rigid7_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid6_Rigid6_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid6_Rigid6_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid6_Rigid6_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid6_Rigid6_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid6_Rigid6_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid6_Rigid6_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid6_Rigid6_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid6_Rigid6_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid5_Rigid5_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid5_Rigid5_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid5_Rigid5_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid5_Rigid5_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid5_Rigid5_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid5_Rigid5_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid5_Rigid5_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid5_Rigid5_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid8_Rigid8_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid8_Rigid8_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid8_Rigid8_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid8_Rigid8_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid8_Rigid8_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid8_Rigid8_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid8_Rigid8_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid8_Rigid8_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid1_Rigid1_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid1_Rigid1_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid1_Rigid1_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid1_Rigid1_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid1_Rigid1_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid1_Rigid1_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid1_Rigid1_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid1_Rigid1_Conf	Confidence	n/a	250.001475672012
+PhaseSpace_Rigid3_Rigid3_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid3_Rigid3_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid3_Rigid3_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid3_Rigid3_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid3_Rigid3_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid3_Rigid3_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid3_Rigid3_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid3_Rigid3_Conf	Confidence	n/a	250.001475672012
+BrainVision RDA_Fp1	EEG	microvolts	250.001475672012
+BrainVision RDA_Fp2	EEG	microvolts	250.001475672012
+BrainVision RDA_F7	EEG	microvolts	250.001475672012
+BrainVision RDA_F3	EEG	microvolts	250.001475672012
+BrainVision RDA_Fz	EEG	microvolts	250.001475672012
+BrainVision RDA_F4	EEG	microvolts	250.001475672012
+BrainVision RDA_F8	EEG	microvolts	250.001475672012
+BrainVision RDA_FC5	EEG	microvolts	250.001475672012
+BrainVision RDA_FC1	EEG	microvolts	250.001475672012
+BrainVision RDA_FC2	EEG	microvolts	250.001475672012
+BrainVision RDA_FC6	EEG	microvolts	250.001475672012
+BrainVision RDA_T7	EEG	microvolts	250.001475672012
+BrainVision RDA_C3	EEG	microvolts	250.001475672012
+BrainVision RDA_Cz	EEG	microvolts	250.001475672012
+BrainVision RDA_C4	EEG	microvolts	250.001475672012
+BrainVision RDA_T8	EEG	microvolts	250.001475672012
+BrainVision RDA_TP9	EEG	microvolts	250.001475672012
+BrainVision RDA_CP5	EEG	microvolts	250.001475672012
+BrainVision RDA_CP1	EEG	microvolts	250.001475672012
+BrainVision RDA_CP2	EEG	microvolts	250.001475672012
+BrainVision RDA_CP6	EEG	microvolts	250.001475672012
+BrainVision RDA_TP10	EEG	microvolts	250.001475672012
+BrainVision RDA_P7	EEG	microvolts	250.001475672012
+BrainVision RDA_P3	EEG	microvolts	250.001475672012
+BrainVision RDA_Pz	EEG	microvolts	250.001475672012
+BrainVision RDA_P4	EEG	microvolts	250.001475672012
+BrainVision RDA_P8	EEG	microvolts	250.001475672012
+BrainVision RDA_PO9	EEG	microvolts	250.001475672012
+BrainVision RDA_O1	EEG	microvolts	250.001475672012
+BrainVision RDA_Oz	EEG	microvolts	250.001475672012
+BrainVision RDA_O2	EEG	microvolts	250.001475672012
+BrainVision RDA_PO10	EEG	microvolts	250.001475672012
+BrainVision RDA_AF7	EEG	microvolts	250.001475672012
+BrainVision RDA_AF3	EEG	microvolts	250.001475672012
+BrainVision RDA_AF4	EEG	microvolts	250.001475672012
+BrainVision RDA_AF8	EEG	microvolts	250.001475672012
+BrainVision RDA_F5	EEG	microvolts	250.001475672012
+BrainVision RDA_F1	EEG	microvolts	250.001475672012
+BrainVision RDA_F2	EEG	microvolts	250.001475672012
+BrainVision RDA_F6	EEG	microvolts	250.001475672012
+BrainVision RDA_FT9	EEG	microvolts	250.001475672012
+BrainVision RDA_FT7	EEG	microvolts	250.001475672012
+BrainVision RDA_FC3	EEG	microvolts	250.001475672012
+BrainVision RDA_FC4	EEG	microvolts	250.001475672012
+BrainVision RDA_FT8	EEG	microvolts	250.001475672012
+BrainVision RDA_FT10	EEG	microvolts	250.001475672012
+BrainVision RDA_C5	EEG	microvolts	250.001475672012
+BrainVision RDA_C1	EEG	microvolts	250.001475672012
+BrainVision RDA_C2	EEG	microvolts	250.001475672012
+BrainVision RDA_C6	EEG	microvolts	250.001475672012
+BrainVision RDA_TP7	EEG	microvolts	250.001475672012
+BrainVision RDA_CP3	EEG	microvolts	250.001475672012
+BrainVision RDA_CPz	EEG	microvolts	250.001475672012
+BrainVision RDA_CP4	EEG	microvolts	250.001475672012
+BrainVision RDA_TP8	EEG	microvolts	250.001475672012
+BrainVision RDA_P5	EEG	microvolts	250.001475672012
+BrainVision RDA_P1	EEG	microvolts	250.001475672012
+BrainVision RDA_P2	EEG	microvolts	250.001475672012
+BrainVision RDA_P6	EEG	microvolts	250.001475672012
+BrainVision RDA_PO7	EEG	microvolts	250.001475672012
+BrainVision RDA_PO3	EEG	microvolts	250.001475672012
+BrainVision RDA_POz	EEG	microvolts	250.001475672012
+BrainVision RDA_PO4	EEG	microvolts	250.001475672012
+BrainVision RDA_PO8	EEG	microvolts	250.001475672012
+PhaseSpace_Rigid4_Rigid4_X	PositionX	meters	250.001475672012
+PhaseSpace_Rigid4_Rigid4_Y	PositionY	meters	250.001475672012
+PhaseSpace_Rigid4_Rigid4_Z	PositionZ	meters	250.001475672012
+PhaseSpace_Rigid4_Rigid4_A	OrientationA	quaternion	250.001475672012
+PhaseSpace_Rigid4_Rigid4_B	OrientationB	quaternion	250.001475672012
+PhaseSpace_Rigid4_Rigid4_C	OrientationC	quaternion	250.001475672012
+PhaseSpace_Rigid4_Rigid4_D	OrientationD	quaternion	250.001475672012
+PhaseSpace_Rigid4_Rigid4_Conf	Confidence	n/a	250.001475672012
